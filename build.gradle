@@ -51,3 +51,6 @@ dependencyManagement {
 test {
 	useJUnitPlatform()
 }
+
+task.ddddddd()
+sdsa
